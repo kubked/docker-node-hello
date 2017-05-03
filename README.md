@@ -1,2 +1,2 @@
 # docker-node-hello
-nodejs app running on port 3000
+nodejs app running on port 8080
